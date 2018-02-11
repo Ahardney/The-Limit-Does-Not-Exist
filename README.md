@@ -1,7 +1,7 @@
 # IDS6145(SimTech 2018) - DISNEYWORLD "MAGIC KINGDOM" VISITORS ENTRANCE SYSTEM 
 
 # MouseHeadz
-![**Mickey.png**](images\Mickey.png)
+![**Mickey.png**](images/Mickey.png)
 
 > * ADAM HARDNEY
 > * BLAKE NGUYEN
@@ -13,7 +13,7 @@
 (Abstract here - basically your pitch with some modification - but short overview)
 
 
-![**MKE.png**](images\MKE.png)
+![**MKE.png**](images/MKE.png)
 
 
 
