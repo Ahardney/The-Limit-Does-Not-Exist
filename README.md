@@ -1,12 +1,19 @@
-# IDS6145(SimTech 2018) - Research Plan (Template)
-(remember all text between brackets to be removed in proposal and final, like template above)
+# IDS6145(SimTech 2018) - DISNEYWORLD "MAGIC KINGDOM" VISITORS ENTRANCE SYSTEM 
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+# MouseHeadz
+![Mickey.png](images\Mickey.png)
+
+> * ADAM HARDNEY
+> * BLAKE NGUYEN
+> * MICHAEL STERKEL
+> * RACHEL STRANEY
+
+> * Project Title: MAGIC KINGDOM VISITORS ENTRANCE SYSTEM
 
 (Abstract here - basically your pitch with some modification - but short overview)
-(TEASER IMAGE HERE - should wow me to read your work)
+
+
+![MKE.png](images\MKE.png)
 
 
 
