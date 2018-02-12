@@ -10,6 +10,11 @@
 
 > * Project Title: MAGIC KINGDOM VISITORS ENTRANCE SYSTEM
 
+# Abstract
+Disney's Magic Kingdom is one of the most visited  theme parks in the world. According to the Themed Entertainment Association in their Global Attractions Attendance Report, Magic Kindom had over 20 million visitors in 2015. (http://www.teaconnect.org/images/files/TEA_160_611852_160525.pdf) With a large number of visitors coming into the park daily, the entrance can quickly become overcrowded. The goal is to move quests efficiently and safely through the Entrance and into the park. 
+
+
+
 (Abstract here - basically your pitch with some modification - but short overview)
 
 
