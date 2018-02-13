@@ -10,7 +10,8 @@
 > * Project Title: MAGIC KINGDOM VISITORS ENTRANCE SYSTEM
 
 # Abstract
-Disney's Magic Kingdom is one of the most visited theme parks in the world. According to the Themed Entertainment Association in their Global Attractions Attendance Report, Magic Kingdom had over 20 million visitors in 2015. (http://www.teaconnect.org/images/files/TEA_160_611852_160525.pdf). With a large number of guests coming into the park daily, the entrance into Disney’s Magic Kingdom can quickly become overcrowded, which can affect the safety of Disney’s guests. The goal of our system is to identify how long it would take to get into Disney’s Magic Kingdom park from the guests parking lot based on various modes of transportation.
+Disney's Magic Kingdom is one of the most visited theme parks in the world. According to the Themed Entertainment Association in their Global Attractions Attendance Report, Magic Kingdom had over 20 million visitors in 2015. (http://www.teaconnect.org/images/files/TEA_160_611852_160525.pdf). With a large number of guests coming into the park daily, the entrance into Disney’s Magic Kingdom can quickly become overcrowded, which can impose safety concerns (e.g., fire hazards) for Disney’s guests. The goal of our system is to find the amount of time it takes to reach the entrance of Magic Kingdom based on various modes of transportation (e.g., monorail, buses, and ferry).
+
 
 
 
