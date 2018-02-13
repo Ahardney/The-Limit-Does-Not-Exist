@@ -10,16 +10,7 @@
 > * Project Title: MAGIC KINGDOM VISITORS ENTRANCE SYSTEM
 
 # Abstract
-Mike's edit:
-
-Magic Kingdom, at Walt Disney World in Orlando Florida, has lived up to its tagline of "The most Magical Place on Earth" by becoming one of the most visited theme parks in the world hosting over 20 million visitors in 2015 Disney's Magic Kingdom is one of the most visited theme parks in the world. According to the Themed Entertainment Association in their Global Attractions Attendance Report (http://www.teaconnect.org/images/files/TEA_160_611852_160525.pdf).  For anyone who has visited the Magic Kingdom the size of the crowds can play a big factor in the overall experience by affecting the amount of time it takes to get into the park and ride the rides and overall safety of the guests.  Compounding this issue is the bottleneck created by the Transportation and Ticket Center (TTC) where guests must get on a water ferry, monorail or bus to get to the official main street entrance to Magic Kingdom.  The goal of our system is to model the time it would take guests to arrive at Magic Kingdom based on which mode of transportation taken from the TTC.
-
-Original:
-Disney's Magic Kingdom is one of the most visited theme parks in the world. According to the Themed Entertainment Association in their Global Attractions Attendance Report, Magic Kingdom had over 20 million visitors in 2015. (http://www.teaconnect.org/images/files/TEA_160_611852_160525.pdf). With a large number of guests coming into the park daily, the entrance into Disney’s Magic Kingdom can quickly become overcrowded, which can impose safety concerns (e.g., fire hazards) for Disney’s guests. The goal of our system is to find the amount of time it takes to reach the entrance of Magic Kingdom based on various modes of transportation (e.g., monorail, buses, and ferry).
-
-
-
-
+Magic Kingdom, at Walt Disney World in Orlando Florida, has lived up to its tagline as being "The most Magical Place on Earth" by becoming one of the most visited theme parks in the world. According to the Themed Entertainment Association Global Attractions Attendance Report in 2015, Walt Disney's Magic Kingdom hosted over 20 million vistors. (http://www.teaconnect.org/images/files/TEA_160_611852_160525.pdf). For anyone who has the visited Magic Kingdom theme park, the size of the crowds can affect guests' overall experience and impose safety issues. Compounding this issue is the bottleneck created by the Transportation and Ticket Center (TTC) where guests must take the water ferry, monorail or bus to get to the official main street entrance to Magic Kingdom. The goal of our system is to model the time it would take guests to arrive at Magic Kingdom based on which mode of transportation taken from the TTC.
 
 
 
